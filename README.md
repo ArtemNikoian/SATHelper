@@ -2,7 +2,7 @@
 SATHelper is a project that will provide you with AI-generated authentic SAT questions, and let you practice efficiently by calculating your knowledge score on each topic.
 
 ## How to use
-Find video explanation at https://youtu.be/Deq1dGjAN20
+Find video explanation at https://youtu.be/I4UQ7WphsjI
 ### Getting Started
 1. On the project's main screen, go to **Code** and select **Download ZIP**
 2. Find the downloaded ZIP file and extract it to create the "SAT Helper-main" folder
